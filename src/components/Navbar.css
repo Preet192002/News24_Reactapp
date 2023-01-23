@@ -1,0 +1,75 @@
+.nav-link{
+    position: relative;
+    
+}
+
+.nav-link::after{
+    opacity:0;
+    transition:all 0.2s ;
+    content: '';
+    height: 2px;
+    width: 100%;
+    background-color:brown;
+    position: absolute;
+    bottom: 0;
+   left: 0;
+   
+}
+
+.nav-link:hover::after{
+    opacity: 1;
+   
+}
+
+
+
+
+
+
+
+
+
+#home{
+    color: beige;
+    font-weight:645;
+  
+
+}
+
+#business{
+   color:beige ;
+   font-weight:645;
+ 
+}
+#entertainment{
+    color:beige ;
+    font-weight:645;
+ 
+}
+#general{
+ color:beige ;
+ font-weight:645;
+}
+#health{
+    color:beige ;
+    font-weight:645;
+ 
+}
+#science{
+    color:beige ;
+    font-weight:645;
+ 
+}
+#sports{
+    color:beige ;
+    font-weight:645;
+ 
+}
+#technology{
+
+    color:beige ;
+    font-weight:645;
+}
+
+    
+
