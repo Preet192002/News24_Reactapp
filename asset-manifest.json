@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/News24_Reactapp/static/css/main.95329e35.css",
+    "main.js": "/News24_Reactapp/static/js/main.cd2fca18.js",
+    "static/media/spinner.gif": "/News24_Reactapp/static/media/spinner.0c2993480d0ca8008754.gif",
+    "index.html": "/News24_Reactapp/index.html",
+    "main.95329e35.css.map": "/News24_Reactapp/static/css/main.95329e35.css.map",
+    "main.cd2fca18.js.map": "/News24_Reactapp/static/js/main.cd2fca18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95329e35.css",
+    "static/js/main.cd2fca18.js"
+  ]
+}
